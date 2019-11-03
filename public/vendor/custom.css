@@ -1,0 +1,11 @@
+.Pending {
+  background-color: #f39c12 !important;
+}
+
+.Approve {
+  background-color: #00c0ef !important;
+}
+
+.Reject {
+  background-color: #dd4b39 !important;
+}
